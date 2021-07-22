@@ -40,7 +40,7 @@ exports.consumo = function(req, res){
     }
 
  
-    fetch('https://apiecommerce.redpagos.co:8530/CheckOut/MethodGenerateTransaction',{
+    fetch('https://apiecommerce.pagosinteligentes.com:8070/CheckOut/MethodGenerateTransaction',{
         method: 'POST',
         headers: {
             'Content-Type':'application/json', 
