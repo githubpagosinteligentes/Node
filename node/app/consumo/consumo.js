@@ -5,8 +5,8 @@ exports.consumo = function(req, res){
     var json = {
         "generateTransaction": {
             "security": {
-              "accountId": 30336,
-              "token": "bflMObSMSnyvysHpC72*"
+              "accountId": 30414,
+              "token": "OTalRWWPXzpIyBAst88$"
             },
             "infoPayment": {
               "amount": 1000,
